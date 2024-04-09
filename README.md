@@ -1,4 +1,5 @@
 ### Hi there 👋
+<h3 align="center">✨ Tech Stack ✨</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dvp-tae&show_icons=true&theme=radical)
 
