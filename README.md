@@ -9,9 +9,6 @@
   <img src="https://img.shields.io/badge/styled--components-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" />&nbsp
 </div>
 <br/>
-<div align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-</div>
 <hr/>
 <h3 align="left">📑 Studying 🧐</h3>
 <div align="left">
