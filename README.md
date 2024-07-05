@@ -21,7 +21,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=styledcomponents,tailwind,tensorflow,notion,npm,yarn" />
+    <img src="https://skillicons.dev/icons?i=styledcomponents,tailwind,notion,npm,yarn" />
   </a>
 </p>
 <h2 align="center">Studying~</h2>
