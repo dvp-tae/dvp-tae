@@ -5,7 +5,6 @@
 <div align='center'>
   <p>🗓️2024.6 ~ ing 📒숭실대학교 IT지원위원회 총학생회 홈페이지 개발 FE</p>
   <p>🗓️2024.3 ~ 2024.8 📒캡스톤디자인종합프로젝트 Recipable(레시피 추천 서비스) FE</p>
-  <p>🗓️2023.12 ~ 2024.2 📒UMC 5th 데모데이 Draw Desktop(바탕화면을 꾸미다!) FE</p>
   <p>🗓️2023.9 ~ 2023.12 📒캡스톤디자인종합프로젝트 DM(개발자 매칭 서비스) FE</p>
 </div>
 <h2 align="center">Tech Stack</h2>
