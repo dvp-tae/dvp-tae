@@ -32,8 +32,11 @@
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nextdotjs&logoColor=white">
 </div>
 <br/>
-<div align="center">
-  <img style="height:170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvp-tae&layout=compact&theme=holi&hide_border=true" alt="Top Languages" />
-  <img style="height:170px" src="https://github-readme-stats.vercel.app/api?username=dvp-tae&include_all_commits=true&theme=nord&hide_border=true&count_private=true" alt="tae-hyeon's GitHub stats" />
+<div align='center'>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=dvp-tae&theme=prussian" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dvp-tae&layout=compact&langs_count=8&card_width=320&theme=prussian" />
+  </a>
 </div>
- 
