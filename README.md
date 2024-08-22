@@ -29,7 +29,6 @@
 <h2 align="center">Studying~</h2>
 <div align='center'>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nextdotjs&logoColor=white">
 </div>
 <br/>
 <div align='center'>
