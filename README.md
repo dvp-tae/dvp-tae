@@ -40,9 +40,9 @@
 <br/>
 <div align='left'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=dvp-tae&theme=vue" />
+    <img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=dvp-tae&theme=vue&show_icons=true" />
   </a>
   <a href="https://github.com/dvp-tae">
-    <img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvp-tae&layout=compact&theme=vue-dark" />
-  </a> 
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvp-tae&exclude_repo=dkssud8150.github.io&layout=compact&theme=vue-dark" />
+  </a>
 </div>
