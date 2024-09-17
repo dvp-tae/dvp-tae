@@ -3,11 +3,16 @@
 </div>
 <h3 align='left'>Experience</h3>
 <div align='left'>
-  <p>[2023.9 ~ 2023.12] 캡스톤디자인종합프로젝트 DM(개발자 매칭 서비스) FE</p>
-  <p>[2024.3 ~ 2024.8] 캡스톤디자인종합프로젝트 Recipable(레시피 추천 서비스) FE</p>
-  <p>[2024.6 ~ ing] 숭실대학교 IT지원위원회 총학생회 홈페이지 개발 FE</p>
-  <p>[2024.8 ~ 2024.9] 데보션 기업 프로젝트 마이페이지 개선 FE</p>
-  <p>[2024.9 ~ ing] 케어마인더 간호사용 데스크탑 프로그램 개발 FE</p>
+  <details>
+    <summary>💻🎖️경력</summary>
+    <ul>
+      <li><code>[2023.9 ~ 2023.12]</code> 캡스톤디자인종합프로젝트 DM(개발자 매칭 서비스) FE</li>
+      <li><code>[2024.3 ~ 2024.8]</code> 캡스톤디자인종합프로젝트 Recipable(레시피 추천 서비스) FE</li>
+      <li><code>[2024.6 ~ ing]</code> 숭실대학교 IT지원위원회 총학생회 홈페이지 개발 FE</li>
+      <li><code>[2024.8 ~ 2024.9]</code> 데보션 기업 프로젝트 마이페이지 개선 FE</li>
+      <li><code>[2024.9 ~ ing]</code> 케어마인더 간호사용 데스크탑 프로그램 개발 FE</li>
+    </ul>
+  </details>
 </div>
 <h3 align="left">Tech Stack</h3>
 <p align="left">
