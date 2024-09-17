@@ -31,9 +31,11 @@
   </a>
 </p>
 <div align='left'>
-  <img src="https://img.shields.io/badge/recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white">
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-  <img src="https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/reactquery-FF4154">
+  <img alt="Static Badge" src="https://img.shields.io/badge/recoil-3578E5">
+  <img alt="Static Badge" src="https://img.shields.io/badge/npm-CB3837">
+  <img alt="Static Badge" src="https://img.shields.io/badge/yarn-2C8EBB">
+  <img alt="Static Badge" src="https://img.shields.io/badge/jira-0052CC">
 </div>
 <br/>
 <div align='left'>
