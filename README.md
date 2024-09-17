@@ -42,4 +42,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=dvp-tae&theme=vue" />
   </a>
+  <a href="https://github.com/imysh578">
+    <img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvp-tae&layout=compact&theme=vue-dark" />
+  </a> 
 </div>
