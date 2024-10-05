@@ -46,3 +46,8 @@
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvp-tae&exclude_repo=dkssud8150.github.io&layout=compact&theme=vue-dark" />
   </a>
 </div>
+<div>
+    <a href="https://github.com/devxb/gitanimals">
+    <img height=100 align="center" src="https://render.gitanimals.org/farms/dvp-tae"/>
+  </a>
+</div>
