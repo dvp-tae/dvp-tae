@@ -48,6 +48,6 @@
 </div>
 <div>
     <a href="https://github.com/devxb/gitanimals">
-    <img height=100 align="center" src="https://render.gitanimals.org/farms/dvp-tae"/>
+    <img height=300 align="center" src="https://render.gitanimals.org/farms/dvp-tae"/>
   </a>
 </div>
