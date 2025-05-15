@@ -1,53 +1,83 @@
+### *사용자 경험 향상을 최우선으로 생각하는 프론트엔드 개발자 성태현입니다 👋*
+##
+
+### **Tech Stack**
 <div align='left'>
-  <h3>Hello! I'm TaeHyeon!🧑🏻‍💻</h3>
-</div>
-<h3 align='left'>Experience</h3>
-<div align='left'>
-  <details>
-    <summary>💻🎖️경력</summary>
-    <ul>
-      <li><code>[2023.9 ~ 2023.12]</code> 캡스톤디자인종합프로젝트 DM(개발자 매칭 서비스) FE</li>
-      <li><code>[2024.3 ~ 2024.8]</code> 캡스톤디자인종합프로젝트 Recipable(레시피 추천 서비스) FE</li>
-      <li><code>[2024.6 ~ ing]</code> 숭실대학교 IT지원위원회 총학생회 홈페이지 개발 FE</li>
-      <li><code>[2024.8 ~ 2024.9]</code> 데보션 기업 프로젝트 마이페이지 개선 FE</li>
-      <li><code>[2024.9 ~ ing]</code> 케어마인더 간호사용 데스크탑 프로그램 개발 FE</li>
-    </ul>
-  </details>
-</div>
-<h3 align="left">Tech Stack</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vite,git,github,vscode,figma&theme=dark" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=styledcomponents,tailwind,notion,github,python" />
-  </a>
-</p>
-<div align='left'>
-  <img alt="Static Badge" src="https://img.shields.io/badge/reactquery-FF4154">
-  <img alt="Static Badge" src="https://img.shields.io/badge/recoil-3578E5">
-  <img alt="Static Badge" src="https://img.shields.io/badge/npm-CB3837">
-  <img alt="Static Badge" src="https://img.shields.io/badge/yarn-2C8EBB">
-  <img alt="Static Badge" src="https://img.shields.io/badge/jira-0052CC">
+	<img src="https://img.shields.io/badge/typescript-%253178C6.svg?logo=typescript&logoColor=%23FFFFFF&color=%233178C6" alt="typescript" />&nbsp;
+	<img src="https://img.shields.io/badge/javascript-%25F7DF1E.svg?logo=javascript&logoColor=%23FFFFFF&color=%23F7DF1E" alt=javascript" />&nbsp;
+	<img src="https://img.shields.io/badge/python-%253776AB.svg?logo=python&logoColor=%23FFFFFF&color=%233776AB" alt=python" />
 </div>
 <br/>
 <div align='left'>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=dvp-tae&theme=vue&show_icons=true" />
-  </a>
-  <a href="https://github.com/dvp-tae">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvp-tae&exclude_repo=dkssud8150.github.io&layout=compact&theme=vue-dark" />
-  </a>
+	<img src="https://img.shields.io/badge/nextjs-%252320232a.svg?logo=nextdotjs&color=%23000000" alt="next.js" />&nbsp;
+	<img src="https://img.shields.io/badge/react-%2561DAFB.svg?logo=react&color=%23000000" alt="react" />
 </div>
-<div>
-    <a href="https://github.com/devxb/gitanimals">
-    <img height=300 align="center" src="https://render.gitanimals.org/farms/dvp-tae"/>
-  </a>
+<br/>
+<div align='left'>
+	<img src="https://img.shields.io/badge/tailwindCSS-%253178C6.svg?logo=tailwindCSS&logoColor=%23FFFFFF&color=%2306B6D4" alt="TailwindCSS" />&nbsp;
+	<img src="https://img.shields.io/badge/Styledcomponents-%25DB7093.svg?logo=styled-components&logoColor=%23FFFFFF&color=%2306B6D4" alt="styled-components" />&nbsp;
+	<img src="https://img.shields.io/badge/CSSModule-%25F43059.svg?logo=CSSWizardry&logoColor=%23FFFFFF&color=%23F43059" alt="CSSModules" />&nbsp;
+	<img src="https://img.shields.io/badge/stroybook-%25FF4785.svg?logo=Storybook&logoColor=%23FFFFFF&color=%23FF4785" alt="storybook" />&nbsp;
+	<img src="https://img.shields.io/badge/shadcn%2Fui-%253178C6.svg?logo=shadcn%2Fui&logoColor=%23FFFFFF&color=%23000000" alt="shadcn/ui" />
 </div>
+<br/>
+<div align='left'>
+	<img src="https://img.shields.io/badge/recoil-%253578E5.svg?logo=Recoil&logoColor=%23FFFFFF&color=%233578E5" alt="recoil" />&nbsp;
+	<img src="https://img.shields.io/badge/zustand-%251c1c1c.svg?logo=zustand&color=%231c1c1c" alt="zustand" />
+</div>
+<br/>
+<div align='left'>
+	<img src="https://img.shields.io/badge/TanStack%20Query-%253178C6.svg?logo=React%20Query&logoColor=%23FFFFFF&color=%23FF4154" alt="TanStack Query" />
+	<img src="https://img.shields.io/badge/PWA-%253178C6.svg?logo=PWA&logoColor=%23FFFFFF&color=%235A0FC8" alt="PWA" />
+	<img src="https://img.shields.io/badge/yarn-%252C8EBB.svg?logo=yarn&logoColor=%23FFFFFF&color=%232C8EBB" alt="yarn" />&nbsp;	
+	<img src="https://img.shields.io/badge/pnpm-%253178C6.svg?logo=pnpm&logoColor=%23FFFFFF&color=%23F69220" alt="pnpm" />
+</div>
+<br/>
+
+##
+
+### **Experience**
+> *`[2024.7 ~ ing]`* **(주)CareMinder 프론트엔드 인턴**
+
+> *`[2025.1 ~ 2025.6]`* **한국대학생 IT 경영학회 KUSITMS 31st 경영총괄팀장**
+
+##
+
+### **Projects**
+> *`[2024.6 ~ 2024.12]`* 
+>> **숭실대학교 IT지원위원회 총학생회 홈페이지 개발**
+
+> *`[2024.8 ~ 2024.9]`*
+>> **SK telecom Devocean 마이페이지 개선 프로젝트 참여**
+
+> *`[2024.9 ~ 2024.12]`*
+>> **한국대학생 IT 경영학회 KUSITMS 30st 클래식 공연 길잡이 서비스 CurateME 개발**
+
+> *`[2025.2 ~ 2025.3]`*
+>> **Kobaco 스토리보드 반응형 및 사용성 개선 프로젝트 참여**
+
+> *`[2025.4 ~ ing]`*
+>> **한국대학생 IT 경영학회 KUSITMS 31st 다중 플랫폼 배포 서비스 Zaply 개발**
+
+### **Awards**
+> **Recipable, 숭실대학교 캡스톤 경진대회 `동상` 수상**
+
+> **Curate Me, 한국대학생 IT 경영학회 `최우수상` 수상**
+
+##
+
+### **Github Status**
+<div align='center'>
+	<div>
+		<a href="https://github.com/anuraghazra/github-readme-stats">
+			<img height=150 align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=dvp-tae&theme=vue&show_icons=true" />
+		</a>
+		<a href="https://github.com/dvp-tae">
+			<img height=150 align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvp-tae&exclude_repo=dkssud8150.github.io&layout=compact&theme=vue" />
+		</a>
+		<a href="https://github.com/devxb/gitanimals">
+			<img height=150 align="center" src="https://render.gitanimals.org/farms/dvp-tae"/>
+		</a>
+	</div>
+</div>
+
