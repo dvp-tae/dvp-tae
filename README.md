@@ -27,8 +27,8 @@
 </div>
 <br/>
 <div align='left'>
-	<img src="https://img.shields.io/badge/TanStack%20Query-%253178C6.svg?logo=React%20Query&logoColor=%23FFFFFF&color=%23FF4154" alt="TanStack Query" />
-	<img src="https://img.shields.io/badge/PWA-%253178C6.svg?logo=PWA&logoColor=%23FFFFFF&color=%235A0FC8" alt="PWA" />
+	<img src="https://img.shields.io/badge/TanStack%20Query-%253178C6.svg?logo=React%20Query&logoColor=%23FFFFFF&color=%23FF4154" alt="TanStack Query" />&nbsp;
+	<img src="https://img.shields.io/badge/PWA-%253178C6.svg?logo=PWA&logoColor=%23FFFFFF&color=%235A0FC8" alt="PWA" />&nbsp;
 	<img src="https://img.shields.io/badge/yarn-%252C8EBB.svg?logo=yarn&logoColor=%23FFFFFF&color=%232C8EBB" alt="yarn" />&nbsp;	
 	<img src="https://img.shields.io/badge/pnpm-%253178C6.svg?logo=pnpm&logoColor=%23FFFFFF&color=%23F69220" alt="pnpm" />
 </div>
