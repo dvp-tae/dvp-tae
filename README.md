@@ -17,7 +17,7 @@
 	<img src="https://img.shields.io/badge/tailwindCSS-%253178C6.svg?logo=tailwindCSS&logoColor=%23FFFFFF&color=%2306B6D4" alt="TailwindCSS" />&nbsp;
 	<img src="https://img.shields.io/badge/Styledcomponents-%25DB7093.svg?logo=styled-components&logoColor=%23FFFFFF&color=%2306B6D4" alt="styled-components" />&nbsp;
 	<img src="https://img.shields.io/badge/CSSModule-%25F43059.svg?logo=CSSWizardry&logoColor=%23FFFFFF&color=%23F43059" alt="CSSModules" />&nbsp;
-	<img src="https://img.shields.io/badge/stroybook-%25FF4785.svg?logo=Storybook&logoColor=%23FFFFFF&color=%23FF4785" alt="storybook" />&nbsp;
+	<img src="https://img.shields.io/badge/storybook-%25FF4785.svg?logo=Storybook&logoColor=%23FFFFFF&color=%23FF4785" alt="storybook" />&nbsp;
 	<img src="https://img.shields.io/badge/shadcn%2Fui-%253178C6.svg?logo=shadcn%2Fui&logoColor=%23FFFFFF&color=%23000000" alt="shadcn/ui" />
 </div>
 <br/>
@@ -37,34 +37,47 @@
 ##
 
 ### **Experience**
-> *`[2024.7 ~ ing]`* **(주)CareMinder 프론트엔드 인턴**
+> *`[2024.7 ~ ing]`*
+> 
+> **(주)CareMinder 프론트엔드 인턴**
 
-> *`[2025.1 ~ 2025.6]`* **한국대학생 IT 경영학회 KUSITMS 31st 경영총괄팀장**
+> *`[2025.1 ~ 2025.6]`*
+> 
+> **한국대학생 IT 경영학회 KUSITMS 31st 경영총괄팀장**
 
 ##
 
 ### **Projects**
 > *`[2025.4 ~ ing]`*
->> **한국대학생 IT 경영학회 KUSITMS 31st 다중 플랫폼 배포 서비스 Zaply 개발**
+> 
+> **```KUSITMS 31st``` \| 다중 플랫폼 배포 서비스 Zaply 개발**
 
 > *`[2025.2 ~ 2025.3]`*
->> **Kobaco 스토리보드 반응형 및 사용성 개선 프로젝트 참여**
+> 
+> **```Kobaco``` \| 스토리보드 반응형 및 사용성 개선 프로젝트 참여**
 
 > *`[2024.9 ~ 2024.12]`*
->> **한국대학생 IT 경영학회 KUSITMS 30st 클래식 공연 길잡이 서비스 CurateME 개발**
+> 
+> **```KUSITMS 30st``` \| 클래식 공연 길잡이 서비스 CurateME 개발**
 
 > *`[2024.8 ~ 2024.9]`*
->> **SK telecom Devocean 마이페이지 개선 프로젝트 참여**
+> 
+> **```SK telecom``` \| Devocean 마이페이지 개선 프로젝트 참여**
 
-> *`[2024.6 ~ 2024.12]`* 
->> **숭실대학교 IT지원위원회 총학생회 홈페이지 개발**
+> *`[2024.6 ~ 2024.12]`*
+> 
+> **```숭실대학교 IT지원위원회``` \| 총학생회 홈페이지 개발**
 
 
 ##
 
 ### **Awards**
+> *`[2024.9]`*
+> 
 > **Recipable, 숭실대학교 캡스톤 경진대회 `동상` 수상**
 
+> *`[2024.12]`*
+> 
 > **Curate Me, 한국대학생 IT 경영학회 `최우수상` 수상**
 
 ##
