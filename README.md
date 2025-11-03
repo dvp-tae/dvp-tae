@@ -33,6 +33,11 @@
 	<img src="https://img.shields.io/badge/pnpm-%253178C6.svg?logo=pnpm&logoColor=%23FFFFFF&color=%23F69220" alt="pnpm" />
 </div>
 <br/>
+<div align='left'>
+	<img src="https://img.shields.io/badge/monorepo-%253178C6.svg?logo=monorepo&logoColor=%23FFFFFF&color=%23F69220" alt="monorepo" />&nbsp;
+	<img src="https://img.shields.io/badge/Jenkins-%253178C6.svg?logo=Jenkins&logoColor=%23FFFFFF&color=%23D24939" alt="monorepo" />
+</div>
+<br/>
 
 ##
 
@@ -41,7 +46,6 @@
 > 
 > **(주)CareMinder FE팀 정규직**
 
-### **Experience**
 > *`[2024.7 ~ 2025.2]`*
 > 
 > **(주)CareMinder FE팀 인턴**
