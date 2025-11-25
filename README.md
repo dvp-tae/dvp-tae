@@ -44,11 +44,11 @@
 ### **Experience**
 > *`[2025.3 ~ ing]`*
 > 
-> **(주)CareMinder FE팀 정규직**
+> **(주)CareMinder FE 개발팀 사원**
 
 > *`[2024.7 ~ 2025.2]`*
 > 
-> **(주)CareMinder FE팀 인턴**
+> **(주)CareMinder FE 개발팀 시간제 근무**
 
 > *`[2025.1 ~ 2025.6]`*
 > 
@@ -93,14 +93,15 @@
 > 
 > **Curate Me, 한국대학생 IT 경영학회 `최우수상` 수상**
 
+> *`[2025.11]`*
+> 
+> **kkruk(꾸룩), Depromeet 17th `최우수상` 수상**
+
 ##
 
 ### **Github Status**
-<div align='center'>
+<div align='left'>
 	<div>
-		<a href="https://github.com/anuraghazra/github-readme-stats">
-			<img height=150 align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=dvp-tae&theme=vue&show_icons=true" />
-		</a>
 		<a href="https://github.com/dvp-tae">
 			<img height=150 align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvp-tae&exclude_repo=dkssud8150.github.io&layout=compact&theme=vue" />
 		</a>
