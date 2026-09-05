@@ -102,9 +102,6 @@
 ### **Github Status**
 <div align='left'>
 	<div>
-		<a href="https://github.com/dvp-tae">
-			<img height=150 align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvp-tae&exclude_repo=dkssud8150.github.io&layout=compact&theme=vue" />
-		</a>
 		<a href="https://github.com/devxb/gitanimals">
 			<img height=150 align="center" src="https://render.gitanimals.org/farms/dvp-tae"/>
 		</a>
